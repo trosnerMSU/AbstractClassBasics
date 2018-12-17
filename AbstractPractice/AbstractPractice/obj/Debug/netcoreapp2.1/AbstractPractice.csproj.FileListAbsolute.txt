@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp2.1\AbstractPractice.deps.json
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp2.1\AbstractPractice.runtimeconfig.json
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp2.1\AbstractPractice.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp2.1\AbstractPractice.dll
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp2.1\AbstractPractice.pdb
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp2.1\AbstractPractice.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp2.1\AbstractPractice.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp2.1\AbstractPractice.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp2.1\AbstractPractice.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp2.1\AbstractPractice.dll
+C:\Users\Owner\Desktop\C#Practice\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp2.1\AbstractPractice.pdb
