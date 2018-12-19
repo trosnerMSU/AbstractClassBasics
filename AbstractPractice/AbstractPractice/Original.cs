@@ -10,7 +10,7 @@ namespace AbstractPractice
 
         public Original(String color)
         {
-            base.description = "Original Rimowa";
+            description = "Original Rimowa";
 
             if(color == "Black" || color == "Silver" || color == "Bronze")
             {
@@ -22,7 +22,7 @@ namespace AbstractPractice
 
         public override String getDescription()
         {
-            return base.getDescription();
+            return description;
         }
 
         public override String color()

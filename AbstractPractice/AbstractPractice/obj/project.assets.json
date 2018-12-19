@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\C#Practice\\AbstractPractice\\AbstractPractice\\AbstractPractice.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\C#Practice\\AbstractPractice\\AbstractClassBasics\\AbstractPractice\\AbstractPractice\\AbstractPractice.csproj",
       "projectName": "AbstractPractice",
-      "projectPath": "C:\\Users\\Owner\\Desktop\\C#Practice\\AbstractPractice\\AbstractPractice\\AbstractPractice.csproj",
+      "projectPath": "C:\\Users\\Owner\\Desktop\\C#Practice\\AbstractPractice\\AbstractClassBasics\\AbstractPractice\\AbstractPractice\\AbstractPractice.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Desktop\\C#Practice\\AbstractPractice\\AbstractPractice\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\Desktop\\C#Practice\\AbstractPractice\\AbstractClassBasics\\AbstractPractice\\AbstractPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

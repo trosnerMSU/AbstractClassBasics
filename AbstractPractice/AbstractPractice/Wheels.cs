@@ -16,7 +16,7 @@ namespace AbstractPractice
         override
         public String getDescription()
         {
-            return rimowa.getDescription() + " with exta Wheels";
+            return description + " with exta Wheels";
         }
 
         override
